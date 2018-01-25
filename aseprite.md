@@ -77,3 +77,11 @@ timeline
 pixel-perfect freehand draw tool
 
 animation - onion skin for reference
+
+get a tablet for high res pixel arting
+
+mobile:
+
+- pixarchy
+- sprite something
+- pixel dude

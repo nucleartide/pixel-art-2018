@@ -85,3 +85,7 @@ mobile:
 - pixarchy
 - sprite something
 - pixel dude
+
+tips:
+
+- avoid straight lines, choose pixels wisely for viewer interest

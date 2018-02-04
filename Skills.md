@@ -12,3 +12,4 @@ Learn: _Game Design Vocabulary_ book
 
 Skill: Coding<br>
 Tool: Lua
+Learn: [Wikipedia](https://en.wikipedia.org/wiki/Lua_(programming_language))

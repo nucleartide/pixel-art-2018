@@ -1,11 +1,14 @@
-Skill: Pixel art
-Tool: Aseprite
+Skill: Pixel art<br>
+Tool: Aseprite<br>
+Learn: [Quick and dirty guide to creating pixel art](https://medium.com/@davidbyttow/a-quick-and-dirty-guide-to-creating-pixel-art-d3d43d4bf421)
 
-Skill: Music making
-Tool: PICO-8 music editor
+Skill: Music making<br>
+Tool: PICO-8 music editor<br>
+Learn: Gruber music tutorials
 
-Skill: Game design
-Tool: _Game Design Vocabulary_ book
+Skill: Game design<br>
+Tool: Pen and paper!<br>
+Learn: _Game Design Vocabulary_ book
 
-Skill: Coding
+Skill: Coding<br>
 Tool: Lua

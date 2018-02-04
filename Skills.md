@@ -1,4 +1,11 @@
-- Pixel art (Aseprite)
-- Design (TypeScript?)
-- Lua (PICO-8)
-- Music (PICO-8)
+Skill: Pixel art
+Tool: Aseprite
+
+Skill: Music making
+Tool: PICO-8 music editor
+
+Skill: Game design
+Tool: _Game Design Vocabulary_ book
+
+Skill: Coding
+Tool: Lua

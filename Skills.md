@@ -11,5 +11,5 @@ Tool: Pen and paper!<br>
 Learn: _Game Design Vocabulary_ book
 
 Skill: Coding<br>
-Tool: Lua
+Tool: Lua<br>
 Learn: [Wikipedia](https://en.wikipedia.org/wiki/Lua_(programming_language))

@@ -1,5 +1,7 @@
 # Clouds
 
+_From a series of tutorials by [GDquest](https://www.youtube.com/watch?v=HoH0jRVUYkA)._
+
 ## Definition
 
 > Accumulation of small water or ice particles. Condensation of water vapor.
